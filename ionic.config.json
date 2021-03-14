@@ -1,0 +1,7 @@
+{
+  "name": "OutlookA1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
