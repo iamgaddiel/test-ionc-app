@@ -1,0 +1,26 @@
+.bannerWrapper{
+    height: 35vh;
+    background-image: url('../images/abstract-halftone-background_23-2148582987.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0px 0px 0px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bannerImageWrapper{
+    background-color: #f00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bannerImage{
+    max-width: 600px;
+    height: 400px;
+    overflow: hidden;
+}
+.bannerImage img{
+    width: 100%;
+    height: auto;
+}

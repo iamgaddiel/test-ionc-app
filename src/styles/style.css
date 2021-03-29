@@ -1,0 +1,19 @@
+*{
+    --main: #201573;
+}
+
+.body{
+    background: red m !important;
+}
+.main-color{
+    background-color: var(--main) !important;
+}
+
+/* dashboard main */
+.main-image-wrapper{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    right: -50px;
+}
+
